@@ -2,6 +2,7 @@
 
 
 def main(mgs):
+    // adding a different comment to this file
     print(mgs)
 
 
