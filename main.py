@@ -2,10 +2,11 @@
 
 
 def main(mgs):
-    // another comment
-    // adding a different comment to this file
-    // prints the message entered into the definition function
     print(mgs)
 
 
+def secondary():
+    print("New Function")
+
 main("Hello World!")
+secondary()
