@@ -6,6 +6,7 @@ def main(mgs):
 
 
 def secondary():
+    //comment
     print("New Function")
 
 main("Hello World!")
