@@ -1,3 +1,8 @@
 #!/usr/bin/python3.6
 
-print("Hello World!")
+
+def main(mgs):
+    print(mgs)
+
+
+main("Hello World!")
