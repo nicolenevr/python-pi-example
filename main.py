@@ -3,6 +3,7 @@
 
 def main(mgs):
     // adding a different comment to this file
+    // prints the message entered into the definition function
     print(mgs)
 
 
