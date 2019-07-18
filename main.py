@@ -8,5 +8,10 @@ def main(mgs):
 def secondary():
     print("New Function")
 
+
+def newnew():
+	retun int(1)
+
+
 main("Hello World!")
 secondary()
