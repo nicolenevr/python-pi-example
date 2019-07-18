@@ -9,7 +9,8 @@ def secondary():
 	// new comment 
     print("New Function")
 
-// removed third function definition
+def new():
+	print("new")
 
 main("Hello World!")
 secondary()
