@@ -2,6 +2,7 @@
 
 
 def main(mgs):
+    // prints the message entered into the definition function
     print(mgs)
 
 
